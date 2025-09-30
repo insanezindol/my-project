@@ -142,15 +142,3 @@ ESLint를 사용하여 코드 품질을 관리합니다:
 ```bash
 npm run lint
 ```
-
-## 👥 기여하기
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 라이센스
-
-이 프로젝트는 개인 프로젝트입니다.
