@@ -154,7 +154,3 @@ npm run lint
 ## 📄 라이센스
 
 이 프로젝트는 개인 프로젝트입니다.
-
-## 👨‍💻 작성자
-
-**딘** - [jhlee@lunasoft.co.kr](mailto:jhlee@lunasoft.co.kr)
